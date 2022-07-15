@@ -1,0 +1,64 @@
+name: "Mudança de vazões afluentes aos reservatórios do Ceará"
+title: "Mudança de vazões afunetes aos reservatórios do Ceará"
+base_url: https://dirceureis.github.io/Transf_Energia_Massa_ENC_UnB/
+repository_url: https://github.com/DirceuReis/Transf_Energia_Massa_ENC_UnB
+creative_commons: CC BY
+description: |
+  Projeto
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Dados"
+      menu:
+        - text: "Precipitação"
+          href: dados_precipitacao.html
+        - text: "Evapotranspiração potencial"
+          href: dados_etp.html
+        - text: "Vazões"
+          href: dados_vazao.html
+        - text: "Uso e ocupação da terra"
+          href: dados_uso.html
+    - text: "Modelos"
+      menu:
+        - text: "Hidrológico distribuído"
+          href: modelo_mgb.html
+        - text: "Hidrológico concentrado"
+          href: modelo_smap.html
+        - text: "Baseado em Budyko"
+          href: modelo_budyko.html
+        - text: "Climático global"
+          href: modelo_mcg.html
+    - text: "Metodologias"
+      menu:
+        - text: "Análise dimensional"
+          href: analise_dimensional.html
+        - text: "Escoamento em tubo: laminar"
+          href: tubo_laminar.html
+        - text: "Escoamento em tubo: turbulento"
+          href: tubo_turbulento.html
+        - text: "Perda de carga em tubo"
+          href: perda_carga.html
+        - text: "Condutos em série e paralelo"
+          href: cond_serie_paralelo.html  
+        - text: "Máquinas de fluxo"
+          href: maquinas_fluxo.html
+        - text: "Bombas e sistema"
+          href: bombas_sistema.html
+        - text: "Bombas em série e paralelo"
+          href: bombas_serie_paralelo.html  
+    - text: "Resultados"
+      menu:
+        - text: "Mudanças do clima"
+          href: mudanca_clima.html
+        - text: "Mudanças na Qmed"
+          href: mudanca_qmed.html
+        - text: "Mudanças em índices de Q"
+          href: mudanca_indiceQ.html
+    - text: "Equipe"
+      href: equipe.html
+output:
+  distill::distill_article:
+    toc: true
+
