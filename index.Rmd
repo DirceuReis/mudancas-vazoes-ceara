@@ -1,7 +1,17 @@
 ---
-title: "Mudanças de vazão"
+title: "Mudanças das vazões afluentes aos reservatórios do Ceará"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Estudos e soluções tecnológicas visando o aumento da resiliência às secas
+author:
+  - name: "Dirceu S. Reis Jr."
+    url: https://github.com/DirceuReis
+    affiliation: Professor Universidade de Brasília (UnB) 
+    affiliation_url: https://www.unb.br
+    orcid_id: 0000-0003-1787-9763  
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
 site: distill::distill_website
 ---
 

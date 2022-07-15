@@ -6,15 +6,20 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-15T11:25:23-03:00"
+      "last_modified": "2022-07-15T12:41:53-03:00"
     },
     {
       "path": "index.html",
-      "title": "Mudanças de vazão",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
-      "author": [],
+      "title": "Mudanças das vazões afluentes aos reservatórios do Ceará",
+      "description": "Estudos e soluções tecnológicas visando o aumento da resiliência às secas\n",
+      "author": [
+        {
+          "name": "Dirceu S. Reis Jr.",
+          "url": "https://github.com/DirceuReis"
+        }
+      ],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-15T11:25:24-03:00"
+      "last_modified": "2022-07-15T12:41:55-03:00"
     }
   ],
   "collections": []
