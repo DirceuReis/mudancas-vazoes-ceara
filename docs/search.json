@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-15T12:41:53-03:00"
+      "last_modified": "2022-07-18T12:13:37-03:00"
     },
     {
       "path": "index.html",
@@ -14,12 +14,24 @@
       "description": "Estudos e soluções tecnológicas visando o aumento da resiliência às secas\n",
       "author": [
         {
+          "name": "Jorgiane Pires Bezerra",
+          "url": {}
+        },
+        {
+          "name": "Francisco Chagas Vasconcelos Junior",
+          "url": {}
+        },
+        {
           "name": "Dirceu S. Reis Jr.",
           "url": "https://github.com/DirceuReis"
+        },
+        {
+          "name": "Eduardo Sávio P. R. Martins",
+          "url": {}
         }
       ],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-15T12:41:55-03:00"
+      "last_modified": "2022-07-18T12:13:38-03:00"
     }
   ],
   "collections": []
