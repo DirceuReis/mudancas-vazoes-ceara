@@ -1,0 +1,17 @@
+---
+title: "Evapotranspiração potencial"
+description: "Variáveis, método de cálculo, e séries"
+---
+## Fonte dos dados
+
+## Localização das estações climatológicas
+
+## Período
+
+## Método de cálculo
+
+## Estimativas por região
+
+### Bacias incrementais
+
+### Regiões hidrográficas

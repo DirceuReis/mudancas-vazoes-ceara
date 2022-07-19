@@ -1,0 +1,15 @@
+---
+title: "Precipitação"
+description: "Seleção das estações e estimativa das séries"
+---
+## Fonte dos dados
+
+## Localização das estações
+
+## Período
+
+## Precipitação média
+
+### Bacias incrementais
+
+### Regiões hidrográficas

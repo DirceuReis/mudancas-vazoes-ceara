@@ -6,7 +6,31 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-19T12:08:39-03:00"
+      "last_modified": "2022-07-19T15:21:42-03:00"
+    },
+    {
+      "path": "dados_etp.html",
+      "title": "Evapotranspiração potencial",
+      "description": "Variáveis, método de cálculo, e séries",
+      "author": [],
+      "contents": "\r\n\r\nContents\r\nFonte dos dados\r\nLocalização das\r\nestações climatológicas\r\nPeríodo\r\nMétodo de cálculo\r\nEstimativas por região\r\nBacias incrementais\r\nRegiões hidrográficas\r\n\r\n\r\nFonte dos dados\r\nLocalização das\r\nestações climatológicas\r\nPeríodo\r\nMétodo de cálculo\r\nEstimativas por região\r\nBacias incrementais\r\nRegiões hidrográficas\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-19T15:21:43-03:00"
+    },
+    {
+      "path": "dados_precipitacao.html",
+      "title": "Precipitação",
+      "description": "Seleção das estações e estimativa das séries",
+      "author": [],
+      "contents": "\r\n\r\nContents\r\nFonte dos dados\r\nLocalização das\r\nestações\r\nPeríodo\r\nPrecipitação média\r\nBacias incrementais\r\nRegiões hidrográficas\r\n\r\n\r\nFonte dos dados\r\nLocalização das estações\r\nPeríodo\r\nPrecipitação média\r\nBacias incrementais\r\nRegiões hidrográficas\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-19T15:21:44-03:00"
+    },
+    {
+      "path": "dados_vazao.html",
+      "title": "Dados de vazão",
+      "description": "Afluências aos reservatórios",
+      "author": [],
+      "contents": "\r\n\r\nContents\r\nReservatórios\r\nEstimativa das vazões\r\nPeríodo\r\n\r\nReservatórios\r\nEstimativa das vazões\r\nPeríodo\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-19T15:21:45-03:00"
     },
     {
       "path": "index.html",
@@ -31,7 +55,7 @@
         }
       ],
       "contents": "\r\n\r\nContents\r\nApresentação\r\nMotivação\r\nAtividades\r\nCronograma\r\n\r\nApresentação\r\nEste estudo de avaliação das mudanças nas vazões afluentes aos\r\nreservatórios do Estado do Ceará está inserido num projeto de pesquisa\r\nmaior, desenvolvido pela Fundação Cearense de Meteorologia e Recursos\r\nHídricos (Funceme) do Estado do Ceará, intitulado Estudos e\r\nsoluções tecnológicas visando o aumento da resiliência às\r\nsecas. O objetivo geral desse projeto de pesquisa é subsidiar\r\nas decisões e orientar a elaboração de políticas públicas do setor de\r\nrecursos hídricos da bacia hidrográfica do Rio Banabuiú.\r\nO projeto Estudos e soluções tecnológicas visando o aumento\r\nda resiliência às secas tem como foco as seguintes\r\natividades:\r\n1- avaliar o aumento da demanda hídrica devido à expansão das áreas\r\nirrigadas;\r\n2- entender como as mudanças do uso do solo, o que inclui a\r\nconstrução de pequenos reservatórios espalhados na bacia, podem afetar\r\nas mudanças na oferta hídrica da bacia;\r\n3- estimar os impactos das mudanças do clima nas vazões afluentes aos\r\nreservatórios.\r\nEste estudo de avaliação das mudanças das vazões afluentes\r\naos reservatórios do Ceará foca no item (3) da lista acima.\r\nCompreender e quantificar o regime de vazões afluentes aos diferentes\r\nreservatórios da região do estudo para diferentes cenários no futuro é\r\num elemento-chave para o panejamento e a gestão dos recursos\r\nhídricos.\r\nAS séries temporais de vazão afluente aos reservatórios nos mais\r\ndiferentes cenários de planejamento permite que se simule a operação dos\r\nmacro-sistemas e se avalie diferentes políticas operativas.\r\nMotivação\r\nEste estudo tem como principal motivação a construção de uma\r\nmetodologia e a estimativa das mudanças no regime de vazão oriunda única\r\ne exclusivamente das mudanças do clima, mais especificamente de mudanças\r\nno padrão das preciptações e da temperatura, o que afeta a magnitude da\r\nevapotranspiração potencial na região.\r\nEstimar os impactos no regime de vazões afluentes aos reservatórios\r\nmonitorados pela COGERH, para diferentes cenários e diferentes períodos\r\nfuturos, permitirá, na sequência, a execução de um estudo complementar,\r\nem que será possível identificar as principais repercussões para a\r\ngestão dos recursos hídricos, assim como para avaliar diferentes\r\nestratégias adpatativas.\r\nAtividades\r\nObtenção e organização das simulações dos modelos climáticos globais\r\n(MCGs) oriundas do CMIP6\r\nAvaliação da capacidade dos modelos climáticos globais em\r\nrepresentar o clima presente na região de interesse\r\nRemoção do viés das séries temporais das variáveis climáticas\r\noriundas dos MCGs\r\nCálculo das séries temporais das variáveis climáticas com viés\r\nremovido para as unidades espacias elementares do modelo\r\nhidrológico\r\nObtenção das séries diárias de vazão pelo modelo hidrológico para o\r\nperíodo 2015-2100\r\nCronograma\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-19T12:08:39-03:00"
+      "last_modified": "2022-07-19T15:21:46-03:00"
     }
   ],
   "collections": []
