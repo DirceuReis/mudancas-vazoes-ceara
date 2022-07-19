@@ -65,6 +65,11 @@ Estimar os impactos no regime de vazões afluentes aos reservatórios monitorado
 
 ## Atividades
 
+- Obtenção e organização das simulações dos modelos climáticos globais (MCGs) oriundas do CMIP6 
+- Avaliação da capacidade dos modelos climáticos globais em representar o clima presente na região de interesse
+- Remoção do viés das séries temporais das variáveis climáticas oriundas dos MCGs 
+- Cálculo das séries temporais das variáveis climáticas com viés removido para as unidades espacias elementares do modelo hidrológico
+-	Obtenção das séries diárias de vazão pelo modelo hidrológico para o período 2015-2100
 
 ## Cronograma
 
