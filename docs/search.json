@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-19T15:21:42-03:00"
+      "last_modified": "2022-07-25T10:10:43-03:00"
     },
     {
       "path": "dados_etp.html",
@@ -14,7 +14,7 @@
       "description": "Variáveis, método de cálculo, e séries",
       "author": [],
       "contents": "\r\n\r\nContents\r\nFonte dos dados\r\nLocalização das\r\nestações climatológicas\r\nPeríodo\r\nMétodo de cálculo\r\nEstimativas por região\r\nBacias incrementais\r\nRegiões hidrográficas\r\n\r\n\r\nFonte dos dados\r\nLocalização das\r\nestações climatológicas\r\nPeríodo\r\nMétodo de cálculo\r\nEstimativas por região\r\nBacias incrementais\r\nRegiões hidrográficas\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-19T15:21:43-03:00"
+      "last_modified": "2022-07-25T10:10:44-03:00"
     },
     {
       "path": "dados_precipitacao.html",
@@ -22,7 +22,7 @@
       "description": "Seleção das estações e estimativa das séries",
       "author": [],
       "contents": "\r\n\r\nContents\r\nFonte dos dados\r\nLocalização das\r\nestações\r\nPeríodo\r\nPrecipitação média\r\nBacias incrementais\r\nRegiões hidrográficas\r\n\r\n\r\nFonte dos dados\r\nLocalização das estações\r\nPeríodo\r\nPrecipitação média\r\nBacias incrementais\r\nRegiões hidrográficas\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-19T15:21:44-03:00"
+      "last_modified": "2022-07-25T10:10:45-03:00"
     },
     {
       "path": "dados_vazao.html",
@@ -30,7 +30,14 @@
       "description": "Afluências aos reservatórios",
       "author": [],
       "contents": "\r\n\r\nContents\r\nReservatórios\r\nEstimativa das vazões\r\nPeríodo\r\n\r\nReservatórios\r\nEstimativa das vazões\r\nPeríodo\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-19T15:21:45-03:00"
+      "last_modified": "2022-07-25T10:10:46-03:00"
+    },
+    {
+      "path": "equipe.html",
+      "title": "Equipe do projeto",
+      "author": [],
+      "contents": "\r\n\r\nContents\r\nJorgiane Pires Bezerra\r\nFranciso Chagas\r\nVasconcelos Junior\r\nDirceu Silveira Reis\r\nJunior\r\nEduardo Sávio\r\nPassos Rodrigues Martins\r\n\r\nJorgiane Pires Bezerra\r\nJorgiane Pires BezerraMestranda no Programa de Pós-Graduação em Engenharia Civil com ênfase\r\nem Recursos Hídricos na Universidade Federal do Ceará. Graduada em\r\nEngenharia Ambiental e Sanitária pelo Instituto Federal de Educação,\r\nCiência e Tecnologia do Ceará.\r\nAtuou como bolsista de iniciação cientifica na Empresa Brasileira de\r\nPesquisa Agropecuária e como pesquisadora na modalidade de bolsa de\r\ntransferência tecnológica na Fundação Cearense de Meteorologia e\r\nRecursos Hídricos.\r\nTem experiência em:\r\navaliação de impactos ambientais de processos e produtos\r\nagroindustriais;\r\ndelimitação automática de elementos de drenagem com integração em\r\nlinguagem Python;\r\nmodelagem hidrológica distribuída utilizando o modelo MGB-IPH.\r\nFranciso Chagas Vasconcelos\r\nJunior\r\nFranciso Chagas Vasconcelos\r\nJuniorPossui graduação em Física Licenciatura Plena pela Universidade\r\nEstadual do Ceará (2007), mestrado em Ciências Físicas Aplicadas pela\r\nUniversidade Estadual do Ceará (2010) e doutorado em Meteorologia pela\r\nUniversidade de São Paulo (2014).\r\nTem experiência em:\r\nMeteorologia Física;\r\nMeteorologia Dinâmica;\r\nModelagem Numérica de Mesoescala;\r\nTécnicas de downscaling sobre o Nordeste Brasileiro.\r\nTrabalha com variabilidade da Precipitação sobre o Nordeste do\r\nBrasil, além de Modelagem Climática Regional sobre o América do Sul.\r\nFez Pós-Doutorado na área de Clima e Recursos Hídricos no\r\ndepartamento de engenharia hidráulica da Universidade Federal do Ceará\r\ntrabalhando com previsão de vazão natural afluente em reservatórios no\r\nsemi-árido e índices de seca.\r\nAtualmente é pesquisador na Fundação Cearense de Meteorologia e\r\nRecursos Hídricos, trabalhando com modelagem Atmosférica de Tempo e\r\nClima, impactos de mudanças no clima na região Nordeste, além do\r\ndesenvolvimento de produtos operacional para agricultura e recursos\r\nhídricos no semi-árido.\r\nFaz parte também do corpo docente do Mestrado Profissional em\r\nClimatologia e Aplicações nos Países da CPLP e África na Universidade\r\nEstadual do Ceará.\r\nDirceu Silveira Reis Junior\r\nDirceu é Professor do Departamento de Engenharia Civil e Ambiental da\r\nUniversidade de Brasília. Ele tem trabalhado com análise e gestão de\r\nrisco em recursos hídricos, com foco no desenvolvimento e aplicação de\r\nmetodologias que descrevam as incertezas na estimativas de extremos\r\nhidrológicos e na avaliação de políticas ou estratégias operativas.\r\nDirceu S. Reis Jr. curtindo o lago\r\nParanoá na pandemiaEduardo Sávio Passos\r\nRodrigues Martins\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-25T10:10:47-03:00"
     },
     {
       "path": "index.html",
@@ -55,7 +62,7 @@
         }
       ],
       "contents": "\r\n\r\nContents\r\nApresentação\r\nMotivação\r\nAtividades\r\nCronograma\r\n\r\nApresentação\r\nEste estudo de avaliação das mudanças nas vazões afluentes aos\r\nreservatórios do Estado do Ceará está inserido num projeto de pesquisa\r\nmaior, desenvolvido pela Fundação Cearense de Meteorologia e Recursos\r\nHídricos (Funceme) do Estado do Ceará, intitulado Estudos e\r\nsoluções tecnológicas visando o aumento da resiliência às\r\nsecas. O objetivo geral desse projeto de pesquisa é subsidiar\r\nas decisões e orientar a elaboração de políticas públicas do setor de\r\nrecursos hídricos da bacia hidrográfica do Rio Banabuiú.\r\nO projeto Estudos e soluções tecnológicas visando o aumento\r\nda resiliência às secas tem como foco as seguintes\r\natividades:\r\n1- avaliar o aumento da demanda hídrica devido à expansão das áreas\r\nirrigadas;\r\n2- entender como as mudanças do uso do solo, o que inclui a\r\nconstrução de pequenos reservatórios espalhados na bacia, podem afetar\r\nas mudanças na oferta hídrica da bacia;\r\n3- estimar os impactos das mudanças do clima nas vazões afluentes aos\r\nreservatórios.\r\nEste estudo de avaliação das mudanças das vazões afluentes\r\naos reservatórios do Ceará foca no item (3) da lista acima.\r\nCompreender e quantificar o regime de vazões afluentes aos diferentes\r\nreservatórios da região do estudo para diferentes cenários no futuro é\r\num elemento-chave para o panejamento e a gestão dos recursos\r\nhídricos.\r\nAS séries temporais de vazão afluente aos reservatórios nos mais\r\ndiferentes cenários de planejamento permite que se simule a operação dos\r\nmacro-sistemas e se avalie diferentes políticas operativas.\r\nMotivação\r\nEste estudo tem como principal motivação a construção de uma\r\nmetodologia e a estimativa das mudanças no regime de vazão oriunda única\r\ne exclusivamente das mudanças do clima, mais especificamente de mudanças\r\nno padrão das preciptações e da temperatura, o que afeta a magnitude da\r\nevapotranspiração potencial na região.\r\nEstimar os impactos no regime de vazões afluentes aos reservatórios\r\nmonitorados pela COGERH, para diferentes cenários e diferentes períodos\r\nfuturos, permitirá, na sequência, a execução de um estudo complementar,\r\nem que será possível identificar as principais repercussões para a\r\ngestão dos recursos hídricos, assim como para avaliar diferentes\r\nestratégias adpatativas.\r\nAtividades\r\nObtenção e organização das simulações dos modelos climáticos globais\r\n(MCGs) oriundas do CMIP6\r\nAvaliação da capacidade dos modelos climáticos globais em\r\nrepresentar o clima presente na região de interesse\r\nRemoção do viés das séries temporais das variáveis climáticas\r\noriundas dos MCGs\r\nCálculo das séries temporais das variáveis climáticas com viés\r\nremovido para as unidades espacias elementares do modelo\r\nhidrológico\r\nObtenção das séries diárias de vazão pelo modelo hidrológico para o\r\nperíodo 2015-2100\r\nCronograma\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-19T15:21:46-03:00"
+      "last_modified": "2022-07-25T10:10:47-03:00"
     }
   ],
   "collections": []
